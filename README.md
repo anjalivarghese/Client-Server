@@ -1,0 +1,2 @@
+# Client-Server
+A server maintains  and provides the stock prices in real-time (almost). In other words, it updates its own information database whenever a trade (buy or sell) is made on a particular stock. It also provides a retrieval service to the clients through the Internet. The client can specify a single stock name and its current highest buy and sell prices will be returned by the server. The sell price is the latest sale price for the stock.
